@@ -1,0 +1,5 @@
+Worlds fastest and smallest non-conformant ruby implementation
+
+TODO: 
+Improve successful tests under rubyspec
+Document command-line options
